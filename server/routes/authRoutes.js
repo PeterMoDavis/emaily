@@ -20,6 +20,6 @@ module.exports = (app) => {
   });
 };
 
-//production link mongodb+srv://pmodavisproduction:<password>@cluster0.1hxim.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+//production link mongodb+srv://pmodavisproduction:BrianRapshby@cluster0.1hxim.mongodb.net/emaily-prod?retryWrites=true&w=majority
 //Production Client ID : 926580133386-f7vov1f58ibs798tbe163pibf1sedm7m.apps.googleusercontent.com
 //Production server Secres : bKB2dfUYHzpB8Hafjz00pit-
